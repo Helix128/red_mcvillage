@@ -1,0 +1,12 @@
+{
+	"name" : "red_mcvillage",
+	"author" : "Helix",
+	"iconURL" : "https://github.com/Helix128/red_mcvillage/blob/main/icon.png?raw=true",
+	"version" : "1",
+	"mapDownloads" : [
+		{ "platform" : "win", "url" : "https://github.com/Helix128/red_mcvillage/blob/main/win.zip?raw=true" },
+		{ "platform" : "osx", "url" : "https://github.com/Helix128/red_mcvillage/blob/main/osx.zip?raw=true" },
+		{ "platform" : "lin", "url" : "https://github.com/Helix128/red_mcvillage/blob/main/lin.zip?raw=true" },
+		{ "platform" : "web", "url" : "https://github.com/Helix128/red_mcvillage/blob/main/web.zip?raw=true" }
+	]
+}
